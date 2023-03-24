@@ -1,7 +1,7 @@
 
 # Movie list 📽️
 
-Movie list is a course application oriented on using JavaScript objects, DOM interaction and event listeners 
+Movie list is a course application that focuses on utilizing JavaScript objects, DOM interaction, and event listeners
 
 ### 🌐 [Site deployment](https://ilya703.github.io/Movie-list/)
 
